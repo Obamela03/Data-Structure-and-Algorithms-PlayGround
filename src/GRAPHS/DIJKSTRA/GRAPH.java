@@ -1,4 +1,4 @@
-package DIJKSTRA;
+package GRAPHS.DIJKSTRA;
 
 import java.util.*;
 

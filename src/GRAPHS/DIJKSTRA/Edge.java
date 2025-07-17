@@ -1,4 +1,4 @@
-package DIJKSTRA;
+package GRAPHS.DIJKSTRA;
 
 public class Edge <T>{
     T source, destination;
