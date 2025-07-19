@@ -37,7 +37,11 @@
 
 **SORTING ALGORITHMS** 
 
-    ☐ Bubble Sort
+    ✅ Bubble Sort
+
+    ✅ Selection Sort
+
+    ✅ Insertion Sort
 
     ☐ Merge Sort
 
