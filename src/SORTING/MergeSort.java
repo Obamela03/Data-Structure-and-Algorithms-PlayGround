@@ -2,7 +2,7 @@ package SORTING;
 
 public class MergeSort
 {
-    //The method for sorting the numbers
+    //The method for sorting the list
     public static void mergeSort(int[] list) {
         if (list.length > 1) {
             // Merge sort the first half
