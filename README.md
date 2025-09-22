@@ -47,6 +47,11 @@
 
     ✅ Quick  Sort
 
+**SEARCH ALGORITHMS**
+
+    ✅ Binary Search 
+
+
 **GRAPHS ALGORITHMS**
 
     ✅ Dikjstra's 
