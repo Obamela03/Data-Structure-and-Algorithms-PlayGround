@@ -51,6 +51,11 @@
 
     ✅ Binary Search 
 
+    ☐ Linear Search
+
+    ☐ Breadth First Search
+
+    ☐ Depth First Search
 
 **GRAPHS ALGORITHMS**
 
