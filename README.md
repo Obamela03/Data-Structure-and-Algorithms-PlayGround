@@ -51,7 +51,7 @@
 
     ✅ Binary Search 
 
-    ☐ Linear Search
+    ✅ Linear Search
 
     ☐ Breadth First Search
 
