@@ -43,9 +43,9 @@
 
     ✅ Insertion Sort
 
-    ☐ Merge Sort
+    ✅ Merge Sort
 
-    ☐ Quick  Sort
+    ✅ Quick  Sort
 
 **GRAPHS ALGORITHMS**
 
