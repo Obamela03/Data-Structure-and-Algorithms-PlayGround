@@ -17,6 +17,8 @@ public class LinearSearch
     {
         int[] numbers = {5, 12, 9, 3, 18, 7};
         int index = linearSearch(numbers, 18);
-        System.out.println(index);          //Prints the index of the target value if found
+
+        //Prints the index of the target value if found
+        System.out.println(index);
     }
 }
