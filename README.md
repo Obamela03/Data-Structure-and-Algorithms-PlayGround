@@ -25,7 +25,7 @@
 
     ☐ ArrayLists
 
-    ☐ Linked Lists
+    ✅ Linked Lists
 
     ☐ Stacks
 
