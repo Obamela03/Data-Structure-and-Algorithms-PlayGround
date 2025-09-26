@@ -23,9 +23,9 @@
 ---
 ## 🧠 Data Structures & Design and [Implementation status]
 
-    ☐ ArrayLists
+    ✅ ArrayLists
 
-    ☐ Linked Lists
+    ✅ Linked Lists
 
     ☐ Stacks
 
