@@ -29,6 +29,10 @@
 
     ☐ Stacks
 
+        ✅ Stack implementation using Linked Lists.
+
+        ☐ Stack implementation using Arrays.
+
     ☐ Queues
 
 
